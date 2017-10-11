@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/fonts.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/modern-screen.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.meta_description }}">
+  <meta name="author" content="Aquent Gymnasium">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@AquentGymnasium">
+  <meta name="twitter:url" property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}">
+  <meta name="twitter:title" property="og:title" content="{{page.title}}">
+  <meta name="twitter:image" property="og:image" content="{{site.url}}{{site.baseurl}}/img/{{page.og_image}}">
+  <meta name="twitter:description" property="og:description" content="{{ page.meta_description }}">
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.slim.min.js"></script>
+  <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.15.1/jquery.validate.min.js"></script>
+{% include favicon.html %}
+</head>
+<body>
+
+<header id="brand">
+  <div class="structure">
+
+  <div class="logo">
+    <a href="https://thegymnasium.com" title="Home"><img alt="Aquent Gymnasium (The Gymnasium)" srcset="{{site.baseurl}}/img/gymnasium-logo-ko.svg" src="img/gymnasium-logo-ko.png" role="heading"></a>
+  </div>
+
+  </div>
+</header>
+
+<main class="content structure">
+
+<article>
+
+{{ content }}
+
+</article>
+
+
+</main>
+
+<footer id="contentinfo">
+  <div class="structure">
+    <div class="copyright">
+      <p><small>© {{ 'now' | date: "%Y" }} <a href="https://thegymnasium.com" title="Home">Aquent Gymnasium</a></small></p>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

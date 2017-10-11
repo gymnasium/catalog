@@ -1,0 +1,118 @@
+- course: GYM-100
+  title: Coding for Designers
+  type: full
+  short_description: "Learn HTML and CSS and become the Web Designer that Developers love. Professional design experience is a prerequisite, but no prior web or coding experience is necessary."
+  instructor: Jim Webb
+  course_URL: https://thegymnasium.com/courses/GYM/100/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/100/asset/gym-100.png
+  audience:
+      - Designers
+      - Creatives
+      - Copy Editors
+      - Anyone struggling with HTML
+  skills:
+    - HTML basics
+    - CSS basics
+    - Bootstrap basics
+    - And more...
+
+- course: GYM-101
+  title: Responsive Web Design
+  type: full
+  short_description: "In this course, you’ll learn best practices for building responsive websites that adapt to different devices and user behaviors."
+  instructor: Jeremy Osborn
+  course_URL: https://thegymnasium.com/courses/GYM/101/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/101/asset/gym-101.png
+  skills:
+  - HTML5 and CSS3
+  - Responsive layout
+  - Mobile First strategies
+  - And more...
+  audience:
+    - Designers with coding chops
+    - Front-End Developers
+
+- course: GYM-102
+  title: jQuery Building Blocks
+  type: full
+  short_description: "Lorem..."
+  instructor: Dave Porter
+  course_URL: https://thegymnasium.com/courses/GYM/102/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/102/asset/gym-102.png
+
+- course: GYM-103
+  title: UX Fundamentals
+  type: full
+  short_description: "Lorem..."
+  instructor: Jim Webb
+  course_URL: https://thegymnasium.com/courses/GYM/103/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/103/asset/gym-103.png
+
+- course: GYM-104
+  title: JavaScript Foundations
+  type: full
+  short_description: "Lorem..."
+  instructor: Keith Peters
+  course_URL: https://thegymnasium.com/courses/GYM/104/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/104/asset/gym-104.png
+
+- course: GYM-105
+  title: Writing for Web & Mobile
+  type: full
+  short_description: "Lorem..."
+  instructor: Stephanie Hay
+  course_URL: https://thegymnasium.com/courses/GYM/105/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/105/asset/gym-105.png
+
+- course: GYM-001
+  title: Defeating Busy
+  type: short
+  short_description: "Learn how to estimate, plan, track, and manage your time in order to complete projects. Being busy isn’t a bad thing, but not being in control of your own time is."
+  instructor: Brett Harned
+  course_URL: https://thegymnasium.com/courses/GYM/001/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/001/asset/gym-001.png
+  skills:
+    - Project estimation
+    - Time tracking
+    - Team/client communication skills
+    - And more...
+  audience:
+    - Designers
+    - Developers
+    - Anyone with a deadline
+
+- course: GYM-012
+  title: Introduction to Node.js
+  type: short
+  short_description: "In this course, you will learn how to build a simple web app using Node.js."
+  instructor: Todd Selon
+  course_URL: https://thegymnasium.com/courses/course-v1:GYM+012+0/about
+  course_art: https://thegymnasium.com/asset-v1:GYM+012+0+type@asset+block@gym-012.png
+  skills:
+    - Installing Node.js
+    - Using npm to install various packages for your project
+    - Working with a templating engine
+    - And more...
+  audience:
+    - Front-end developers
+    - JavaScript programmers
+    - Designers with coding chops
+
+- course: GYM-013
+  title: 3D Modeling for Virtual Reality Creation
+  type: short
+  short_description: "Learn how to create 3D generated imagery in Maya for use in Virtual Reality production."
+  instructor: Graham Roberts
+  course_URL: https://thegymnasium.com/courses/course-v1:GYM+013+0/about
+  course_art: https://thegymnasium.com/asset-v1:GYM+013+0+type@asset+block@MVR-gym-013.png
+  skills:
+    - Basic 3D Modeling
+    - Animation and Rigging
+    - Basic 3D Lighting
+    - Rendering and Cameras
+    - Pre-rendered Cinematic VR creation and publishing
+    - And more...
+  audience:
+    - Anyone interested in 3D modeling
+    - Anyone interested in virtual reality workflow
+    - 3D artists interested in virtual reality production
