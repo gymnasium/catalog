@@ -157,6 +157,24 @@ main p.small-print {
   line-height: 1.2;
   }
 
+/* course catalog / specific */
+
+.course {
+  float: none;
+  }
+
+.course img {
+  max-width: 50%;
+  }
+
+.course section ul {
+  padding-left: 0;
+  }
+
+.course section ul li {
+  margin-top: .4em;
+  }
+
 /* footer */
 
 #contentinfo {
