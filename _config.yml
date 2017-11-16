@@ -1,0 +1,10 @@
+# Permalinks
+permalink:
+
+# Setup
+title: Gymnasium Course Catalog
+#url: "http://gymnasium.github.io/catalog/"
+baseurl: /catalog  # This makes the index page URL localhost:4000/catalog/ Remember: Omit the trailing slash!
+exclude: ['docker-compose.yml']
+
+repository: gymnasium/catalog
