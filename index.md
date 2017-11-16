@@ -39,14 +39,14 @@ meta_description: Catalog of all Gymnasium courses
 <li>{{item}}</li>
 {% endfor %}
 </ul>
-{% endif %}
-{% endfor %}
+
 </section>
 
 </article>
 
+{% endif %}
+{% endfor %}
 </section>
-
 
 <section id="gym-shorts">
 
@@ -79,10 +79,10 @@ meta_description: Catalog of all Gymnasium courses
 <li>{{item}}</li>
 {% endfor %}
 </ul>
-{% endif %}
-{% endfor %}
 </section>
 
 </article>
 
+{% endif %}
+{% endfor %}
 </section>
