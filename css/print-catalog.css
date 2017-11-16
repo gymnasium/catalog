@@ -9,7 +9,7 @@ Gymnasium Course Catalog
 body {
   width: 6.5in;
   margin: auto;
-  filter: grayscale(1);
+  /* filter: grayscale(1); */ /* grayscale only */
   }
 
 .content {
