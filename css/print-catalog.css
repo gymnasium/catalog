@@ -1,0 +1,71 @@
+/* ---------------------------
+
+Gymnasium Course Catalog
+
+--------------------------- */
+
+/* --- style for print --- */
+
+body {
+  width: 6.5in;
+  margin: auto;
+  filter: grayscale(1);
+  }
+
+.content {
+  width: 100%;
+  padding: 0;
+  border: 0;
+  margin: 0;
+  }
+
+.content article {
+  float: none;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  clear: both;
+  }
+
+article.course {
+  position: relative;
+  padding-top: 1.2em;
+  padding-left: 6.2em;
+  border-top: 1px dashed #000;
+  overflow: hidden;
+  page-break-inside: avoid;
+  }
+
+.course img {
+  position: absolute;
+  top: 1.2em;
+  left: 0;
+  max-width: 5em;
+  }
+
+.course h3,
+.course h4 {
+  margin-top: 0;
+  }
+
+.course a {
+  display: block;
+  display: none;
+  }
+
+.course p + section,
+.course a + section {
+  margin-left: -6%;
+  }
+
+.course section {
+  float: left;
+  width: 44%;
+  background: #ccc;
+  padding-left: 6%;
+  }
+
+#gym-shorts {
+  page-break-before: always;
+  break-before always;
+  }
