@@ -4,14 +4,15 @@ title: Aquent Gymnasium | Course Catalog
 meta_description: Catalog of all Gymnasium courses
 ---
 
-<header class="main-header">
+<!-- <header class="main-header">
   <h1>Course Catalog</h1>
-</header>
+</header> -->
 
 <section id="full-courses">
 
 <h2>Full Courses</h2>
-<p>Description of Full Courses goes here.</p>
+<p>All our full courses are taught by experienced practitioners and focused on in-demand skills and technologies. Each includes 3 to 6 hours of video instruction, quizzes, assignments, a final exam, and certification when you pass!</p>
+
 {% assign sorted_courses = site.data.catalog | sort: 'course' %}
 {% for course in sorted_courses %}
 {% if course.type == "full" %}
@@ -51,7 +52,8 @@ meta_description: Catalog of all Gymnasium courses
 <section id="gym-shorts">
 
 <h2>Gym Shorts</h2>
-<p>Description of Gym Shorts goes here.</p>
+<p>Gym Shorts are short, snackable courses that all last under an hour. Like our longer courses, they are practical, taught by experienced practitioners, and focused on in-demand skills and technologies.</p>
+
 {% assign sorted_courses = site.data.catalog | sort: 'course' %}
 {% for course in sorted_courses %}
 {% if course.type == "short" %}
