@@ -6,63 +6,153 @@
   course_URL: https://thegymnasium.com/courses/GYM/100/0/about
   course_art: https://thegymnasium.com/c4x/GYM/100/asset/gym-100.png
   audience:
-      - Designers
-      - Creatives
-      - Copy Editors
-      - Anyone struggling with HTML
+    - Designers
+    - Creatives
+    - Copy Editors
+    - Anyone struggling with HTML
   skills:
     - HTML basics
     - CSS basics
     - Bootstrap basics
     - And more...
 
-- course: GYM-101
-  title: Responsive Web Design
-  type: full
-  short_description: "In this course, you’ll learn best practices for building responsive websites that adapt to different devices and user behaviors."
-  instructor: Jeremy Osborn
-  course_URL: https://thegymnasium.com/courses/GYM/101/0/about
-  course_art: https://thegymnasium.com/c4x/GYM/101/asset/gym-101.png
-  skills:
-  - HTML5 and CSS3
-  - Responsive layout
-  - Mobile First strategies
-  - And more...
-  audience:
-    - Designers with coding chops
-    - Front-End Developers
-
 - course: GYM-102
   title: jQuery Building Blocks
   type: full
-  short_description: "Lorem..."
+  short_description: "This course will teach you 5 easy techniques for adding interactivity to your web pages. By the end of the course, you’ll be able to add features and style to your web pages, from simple animations to complex dynamic content."
   instructor: Dave Porter
   course_URL: https://thegymnasium.com/courses/GYM/102/0/about
   course_art: https://thegymnasium.com/c4x/GYM/102/asset/gym-102.png
+  skills:
+    - Navigation, animation, and server interaction
+    - JavaScript
+    - HTML/CSS
+    - And more...
+  audience:
+    - Designers with coding chops
+    - Front-End Developers
+    - JavaScript Developers
 
 - course: GYM-103
   title: UX Fundamentals
   type: full
-  short_description: "Lorem..."
+  short_description: "Learn how to apply user-centered design principles to improve your website and mobile app design. A must-take course for anyone working in web design and development."
   instructor: Jim Webb
   course_URL: https://thegymnasium.com/courses/GYM/103/0/about
   course_art: https://thegymnasium.com/c4x/GYM/103/asset/gym-103.png
+  skills:
+    - User research
+    - Wireframing and prototyping
+    - User testing
+    - And more...
+  audience:
+    - Web Designers
+    - Creatives
+    - UX Designers
+    - Anyone who works on UX projects
 
 - course: GYM-104
   title: JavaScript Foundations
   type: full
-  short_description: "Lorem..."
+  short_description: "Learn the fundamentals of programming with JavaScript and get started on the road to its mastery."
   instructor: Keith Peters
   course_URL: https://thegymnasium.com/courses/GYM/104/0/about
   course_art: https://thegymnasium.com/c4x/GYM/104/asset/gym-104.png
+  skills:
+    - JavaScript
+    - Programming basics
+    - The interaction between JavaScript and HTML
+    - And more...
+  audience:
+    - Designers with coding chops
+    - Front-End Developers
+    - jQuery Developers
 
 - course: GYM-105
   title: Writing for Web & Mobile
   type: full
-  short_description: "Lorem..."
+  short_description: "Learn how to write compelling content through meaningful audience research and find the right words to attract and engage users."
   instructor: Stephanie Hay
   course_URL: https://thegymnasium.com/courses/GYM/105/0/about
   course_art: https://thegymnasium.com/c4x/GYM/105/asset/gym-105.png
+  skills:
+    - Online writing strategies
+    - Content-first UX design
+    - Audience research
+    - And more...
+  audience:
+    - Copy Editors
+    - Marketers
+    - Web Designers
+    - Content Strategists
+
+- course: GYM-106
+  title: Information Design and Visualization Fundamentals
+  type: full
+  short_description: "Learn the design and visual principles needed to create effective information graphics and data visualizations."
+  instructor: Graham Roberts
+  course_URL: https://thegymnasium.com/courses/GYM/106/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/106/asset/gym-106.png
+  skills:
+    - Visual design principles
+    - Interactive design principles
+    - Mapping and charting tools
+    - And more...
+  audience:
+    - Designers
+    - Creatives
+    - Data scientists
+
+- course: GYM-107
+  title: Modern Web Design
+  type: full
+  short_description: "This course will prepare you to be a front-end developer by walking you through the process of building a simple, responsive website using HTML, CSS and JavaScript."
+  instructor: Aaron Gustafson
+  course_URL: https://thegymnasium.com/courses/GYM/107/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/107/asset/gym-107.png
+  skills:
+    - HTML Markup
+    - Using CSS as a design tool
+    - Adding interactivity with JavaScript
+    - And more...
+  audience:
+    - Aspiring Front-End Developers
+    - Designers
+    - Creatives
+
+- course: GYM-108
+  title: JavaScript & jQuery Survival Guide
+  type: full
+  short_description: "This course will prepare you to tackle real-world projects that require the use of jQuery and JavaScript by walking you through a number of exercises and coding examples."
+  instructor: Kevin Chisholm
+  course_URL: https://thegymnasium.com/courses/course-v1:GYM+108+0/about
+  course_art: https://thegymnasium.com/asset-v1:GYM+108+0+type@asset+block@JSSG-retina-course-image.png
+  skills:
+    - Developer Tools
+    - Events and Event Handlers
+    - Manipulating HTML & CSS With jQuery
+    - And more...
+  audience:
+    - Front-End Developers
+    - JavaScript Developers
+    - Full Stack Developers
+
+- course: GYM-109
+  title: Responsive Web Design Fundamentals
+  type: full
+  short_description: "This is a hands-on, code intensive course on how to build high-performance, responsive websites that look great across multiple screen sizes and devices."
+  instructor: Jason Pamental
+  course_URL: https://thegymnasium.com/courses/course-v1:GYM+109+0/about
+  course_art: https://thegymnasium.com/asset-v1:GYM+109+0+type@asset+block@gym-109.png
+  skills:
+    - Strategic thinking about responsive process
+    - Page layout structure with HTML & CSS
+    - Responsive typography and image techniques
+    - And more...
+  audience:
+    - Front-End Developers
+    - Designers with coding chops
+    - JavaScript Developers
 
 - course: GYM-001
   title: Defeating Busy
@@ -80,6 +170,141 @@
     - Designers
     - Developers
     - Anyone with a deadline
+
+- course: GYM-003
+  title: Grid Layout in Bootstrap 3
+  type: short
+  short_description: "Get up to speed with the Twitter Bootstrap's grid layout system and learn how to build a responsive layout that looks great on multiple screen sizes and devices."
+  instructor: Jeremy Osborn
+  course_URL: https://thegymnasium.com/courses/GYM/003/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/003/asset/gym-003.png
+  skills:
+    - Bootstrap basics
+    - Prototyping with Bootstrap
+    - Responsive layout
+    - And more...
+  audience:
+    - Web Designers
+    - Front-End Developers
+    - UX Designers
+
+- course: GYM-004
+  title: Creating a WordPress Theme
+  type: short
+  short_description: "Learn how to convert your HTML/CSS design into a WordPress website. Discover how to set up a local development environment, and add WordPress tags to your design."
+  instructor: Glenn Hodgkinson
+  course_URL: https://thegymnasium.com/courses/GYM/004/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/004/asset/gym-004.png
+  skills:
+    - Intermediate HTML/CSS
+    - WordPress themes
+    - WordPress tags
+    - And more...
+  audience:
+    - Developers
+    - Designers with coding chops
+    - WordPress beginners
+
+- course: GYM-005
+  title: Introducing Sketch for UX and UI
+  type: short
+  short_description: "Learn how to use Sketch tools and features in order to build an interactive prototype for a mobile website."
+  instructor: Jeremy Osborn
+  course_URL: https://thegymnasium.com/courses/GYM/005/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/005/asset/gym-005-updated-bandage.png
+  skills:
+    - Sketch fundamentals
+    - Building static wireframes and prototypes
+    - Interactive prototyping
+    - And more...
+  audience:
+    - UX Designers
+    - Web Designers
+    - Front-End Developers
+
+- course: GYM-006
+  title: Introduction to Git and GitHub
+  type: short
+  short_description: "Learn the basics of version control and get a high-level overview of both Git and GitHub. Perfect for someone with little to no first-hand experience with either."
+  instructor: Jeff Asura
+  course_URL: https://thegymnasium.com/courses/GYM/006/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/006/asset/gym-006.png
+  skills:
+    - Version control
+    - Project workflow
+    - Collaborative coding
+    - And more...
+  audience:
+    - Developers
+    - Designers
+    - Digital Creatives
+
+- course: GYM-007
+  title: Structuring and Organizing HTML5 Forms
+  type: short
+  short_description: "Learn some of the latest standards and thinking around coding HTML forms using the new HTML5 tags and attributes."
+  instructor: Jen Kramer
+  course_URL: https://thegymnasium.com/courses/GYM/007/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/007/asset/gym-007.png
+  skills:
+    - Web Forms
+    - HTML
+    - CSS
+    - And more...
+  audience:
+    - Developers
+    - Designers
+    - Digital Creatives
+- course: GYM-008
+  title: Advanced Rapid Prototyping with Axure
+  type: short
+  short_description: "Learn how to use the conditional logic features in Axure in order to quickly create an interactive prototype."
+  instructor: Travis Slate
+  course_URL: https://thegymnasium.com/courses/GYM/008/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/008/asset/gym-008.png
+  skills:
+    - Interactive prototyping
+    - Basic programming logic
+    - User flows
+    - And more...
+  audience:
+    - UX Designers
+    - Interactive Designers
+    - Information Architects
+
+- course: GYM-009
+  title: Creating a Drupal 8 Theme
+  type: short
+  short_description: "This course will teach you how to create themes for Drupal 8. Specifically, you will learn how to install a local development environment for Drupal 8, and use the new TWIG templating engine to customize the structure and style of your theme."
+  instructor: Glenn Hodgkinson
+  course_URL: https://thegymnasium.com/courses/GYM/009/0/about
+  course_art: https://thegymnasium.com/c4x/GYM/009/asset/Drupal-retina.png
+  skills:
+    - Intermediate HTML/CSS
+    - Drupal theming
+    - TWIG syntax
+    - And more...
+  audience:
+    - Developers
+    - Designers with coding chops
+    - Drupal 8 beginners
+
+- course: GYM-011
+  title: Build Better Websites With Chrome Developer Tools
+  type: short
+  short_description: "In this course, you will get a familiarity with all aspects of the built-in developer tools within the Chrome browser. Understanding how to use these tools will speed up your development time and help you create bug-free, high-performing pages and web applications."
+  instructor: Keith Peters
+  course_URL: https://thegymnasium.com/courses/course-v1:GYM+011+0/about
+  course_art: https://thegymnasium.com/asset-v1:GYM+011+0+type@asset+block@gym-011.png
+  skills:
+    - HTML & CSS Modification
+    - Console Debugging
+    - Page Inspection
+    - And more...
+  audience:
+    - Front-end developers
+    - Designers with coding chops
+    - JavaScript programmers
 
 - course: GYM-012
   title: Introduction to Node.js
